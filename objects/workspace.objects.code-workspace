@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\prompt"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "objects"
+	}
+}
